@@ -1,0 +1,10 @@
+D:\rahman\WebApiAndClient\WebApiClient\bin\Debug\WebApiClient.exe.config
+D:\rahman\WebApiAndClient\WebApiClient\obj\Debug\WebApiClient.csprojResolveAssemblyReference.cache
+D:\rahman\WebApiAndClient\WebApiClient\bin\Debug\WebApiClient.exe
+D:\rahman\WebApiAndClient\WebApiClient\bin\Debug\WebApiClient.pdb
+D:\rahman\WebApiAndClient\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+D:\rahman\WebApiAndClient\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+D:\rahman\WebApiAndClient\WebApiClient\obj\Debug\WebApiClient.exe
+D:\rahman\WebApiAndClient\WebApiClient\obj\Debug\WebApiClient.pdb
+D:\rahman\WebApiAndClient\WebApiClient\bin\Debug\RestSharp.dll
+D:\rahman\WebApiAndClient\WebApiClient\bin\Debug\RestSharp.xml
